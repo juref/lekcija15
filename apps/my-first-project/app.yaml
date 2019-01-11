@@ -13,6 +13,10 @@ handlers:
 - url: /templates
   static_dir: templates/
 
+- url: /frizer
+  static_dir: frizer/
+
+
 libraries:
 - name: webapp2
   version: latest
